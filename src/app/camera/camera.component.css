@@ -1,0 +1,17 @@
+.webcam-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blanchedalmond;
+  }
+  
+  .circle {
+    border-radius: 50%;
+    width: 300px; /* Adjust width as needed */
+    height: 400px; /* Adjust height as needed */
+    overflow: hidden;
+    position: relative;
+  }
+  .proceed{
+    background-color: blue;
+  }
